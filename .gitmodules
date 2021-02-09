@@ -1,0 +1,3 @@
+[submodule "aw-oneM2M-short-names"]
+	path = aw-oneM2M-short-names
+	url = https://github.com/ankraft/aw-oneM2M-short-names.git
