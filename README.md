@@ -1,2 +1,2 @@
-# alfred-workflows
-A collection of Alfred Workflows
+# Alfred Workflows
+A collection of [Alfred](https://www.alfredapp.com) workflows.
